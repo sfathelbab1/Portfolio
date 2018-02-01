@@ -7,7 +7,6 @@
 
   <body>
     <div class = "toppage">
-      <h4><center>ComfyVibes</center></h4>
-    </div>
-    <img class = "image1" src = "img/about/Adhum INC..jpg" alt = "">   
+    <img class = "image1" src = "Adhum INC..jpg" alt = "">
+  </div>  
   </body>
