@@ -1,8 +1,15 @@
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset = "utf-8">
     <title>ComfyVibes</title>
   </head>
+    <style>
+    div {
+      height: 200px;
+      width: 50%;
+    }
+  </style>
 
   <body>
     <div class = "toppage">
