@@ -4,15 +4,10 @@
     <meta charset = "utf-8">
     <title>ComfyVibes</title>
   </head>
-    <style>
-    div {
-      height: 200px;
-      width: 50%;
-    }
-  </style>
 
   <body>
     <div class = "toppage">
       <h4><center>ComfyVibes</center></h4>
     </div>
-    <img class = "image1"; src = "Adhum INC..jpg">
+    <img class = "ComfyVibesImage"; src = "Adhum INC..jpg">
+  </body>
