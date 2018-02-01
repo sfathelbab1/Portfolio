@@ -7,6 +7,6 @@
 
   <body>
     <div class = "toppage">
-    <img class = "image1" src = "Adhum INC..jpg" alt = "">
-  </div>  
+    <img src = "Adhum INC..jpg" class = "image1" alt = "">
+  </div>
   </body>
