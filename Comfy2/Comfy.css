@@ -1,0 +1,374 @@
+.intro{
+font-family: 'Dosis', sans-serif;
+}
+
+.used1{
+font-family: 'Fira Sans', sans-serif;
+}
+
+.oxygen{
+  font-family: 'Oxygen', sans-serif;
+}
+.photo{
+  width: 700px;
+  height:400px;
+}
+.photo2{
+  width: 600px;
+  height: 200px;
+}
+.photo3{
+  width: 700px;
+  height: 350px;
+}
+.figure71{
+  right: 0px;
+  left: 200px;
+}
+.toping{
+  background-image: url("ComfyVibesTake3.png");
+  height: 200%;
+  width: 100%;
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.homehomepage ul{
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+.homehomepage ul li{
+  background-color: white;
+}
+
+.dotted{
+  border: 1px dotted black;
+}
+
+}
+.sm{
+
+}
+.one{
+  height: 500px;
+  width: 300px;
+}
+
+.used2{
+  top: 60%;
+}
+
+.dottedinfo{
+ width: 500px;
+ height: 200px;
+}
+.dottedposition{
+  position: absolute;
+  top: 6150px;
+  right: 0px;
+  left: 450px;
+  height: 200px;
+  width: 500px;
+}
+.dottedposition2{
+  position: absolute;
+  top: 6980px;
+  right: 0px;
+  left: 450px;
+  height: 200px;
+  width: 500px;
+}
+.dottedposition3{
+  position: absolute;
+  top: 7790px;
+  right: 0px;
+  left: 450px;
+  height: 200px;
+  width: 500px;
+}
+.dottedposition4{
+  position: absolute;
+  top: 8580px;
+  right: 0px;
+  left: 450px;
+  height: 200px;
+  width: 500px;
+}
+.dottedposition5{
+  position: absolute;
+  top: 9750px;
+  right: 0px;
+  left: 450px;
+  height: 200px;
+  width: 500px;
+}
+/* Figure 1 */
+.photopart9{
+  position: absolute;
+  top: 1550px;
+  right: 100px;
+  left: 30px;
+  height: 200px;
+  width: 500px;
+}
+.photopart10{
+  position: absolute;
+  top: 1570px;
+  right: 90px;
+  left: 800px;
+  height: 200px;
+  width: 500px;
+}
+
+/* Figure 1.2 */
+.photopart{
+  position: absolute;
+  top: 2050px;
+  right: 3px;
+  width: 700px;
+  height: 700px;
+}
+
+.photopart2{
+  position: absolute;
+  top: 2080px;
+  right: 0px;
+  left: 100px;
+  height: 200px;
+  width: 500px;
+}
+
+/* Figure 1.3 */
+.photopart7{
+position: absolute;
+top: 2500px;
+right: 100px;
+left: 30px;
+height: 200px;
+width: 500px;
+}
+.photopart8{
+position: absolute;
+top: 70px;
+right: 90px;
+left: 850px;
+height: 200px;
+width: 500px;
+}
+
+/* Figure 1.4 */
+.photopart4{
+  position: absolute;
+  top: 2970px;
+  right: 200px;
+  width: 500px;
+  height: 500px;
+}
+
+.photopart5{
+  position: absolute;
+  top: 3020px;
+  right: 0px;
+  left: 110px;
+  height: 200px;
+  width: 500px;
+}
+
+/* Figure 2 */
+.photopart11{
+  position: absolute;
+  top: 3600px;
+  right: 0px;
+  left: 30px;
+  height: 200px;
+  width: 500px;
+}
+
+.photopart12{
+  position: absolute;
+  top: 3650px;
+  right: 80px;
+  width: 500px;
+  height: 500px;
+}
+
+/* Figure 2.1 */
+.photopart13{
+  position: absolute;
+  top: 4150px;
+  right: 0px;
+  left: 100px;
+  height: 200px;
+  width: 500px;
+}
+
+.photopart14{
+  position: absolute;
+  top: 4100px;
+  right: 3px;
+  width: 700px;
+  height: 700px;
+}
+
+/* Figure 2.2 */
+.photopart15{
+  position: absolute;
+  top: 4600px;
+  right: 0px;
+  left: 30px;
+  height: 200px;
+  width: 500px;
+}
+
+.photopart16{
+  position: absolute;
+  top: 4650px;
+  right: 80px;
+  width: 500px;
+  height: 500px;
+}
+
+/* Mens Sweaters */
+.photopart17{
+  position: absolute;
+  top: 5190px;
+  right: 0px;
+  left: 30px;
+  height: 200px;
+  width: 500px;
+}
+
+.photopart18{
+  position: absolute;
+  top: 5190px;
+  right: 200px;
+  width: 500px;
+  height: 500px;
+}
+
+.photopart19{
+  position: absolute;
+  top: 5650px;
+  right: 0px;
+  left: 30px;
+  height: 200px;
+  width: 500px;
+}
+
+.photopart20{
+  position: absolute;
+  top: 5650px;
+  right: 200px;
+  width: 500px;
+  height: 500px;
+}
+
+/* Womens Jackets */
+.photopart21{
+  position: absolute;
+  top: 6500px;
+  right: 0px;
+  left: 30px;
+  height: 200px;
+  width: 500px;
+}
+
+.photopart22{
+  position: absolute;
+  top: 6500px;
+  right: 200px;
+  width: 500px;
+  height: 500px;
+}
+
+/* Shoes */
+.photopart23{
+  position: absolute;
+  top: 7300px;
+  right: 0px;
+  left: 30px;
+  height: 200px;
+  width: 500px;
+}
+
+.photopart24{
+  position: absolute;
+  top: 7300px;
+  right: 200px;
+  width: 500px;
+  height: 500px;
+}
+
+/* Sale */
+.photopart25{
+  position: absolute;
+  top: 8100px;
+  right: 0px;
+  left: 30px;
+  height: 200px;
+  width: 500px;
+}
+
+.photopart26{
+  position: absolute;
+  top: 8100px;
+  right: 200px;
+  width: 500px;
+  height: 500px;
+}
+
+/* Cart */
+.photopart29{
+  position: absolute;
+  top: 8900px;
+  right: 0px;
+  left: 90px;
+  height: 200px;
+  width: 500px;
+}
+
+.photopart30{
+  position: absolute;
+  top: 8920px;
+  right: 200px;
+  left: 840px;
+  width: 500px;
+  height: 500px;
+}
+
+.photopart31{
+  position: absolute;
+  top: 9200px;
+  right: 0px;
+  left: 840px;
+  height: 200px;
+  width: 500px;
+}
+.photopart32{
+  position: absolute;
+  top: 9200px;
+  right: 0px;
+  left: 90px;
+  height: 200px;
+  width: 500px;
+}
+.photopart33{
+  position: absolute;
+  top: 9500px;
+  right: 0px;
+  left: 370px;
+  height: 200px;
+}
+.photopart34{
+  position: absolute;
+  right: 0px;
+  left: 50px;
+  height: 200px;
+}
+.dottedposition6{
+  width: 600px;
+  height: 300px;
+}
