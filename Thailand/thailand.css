@@ -1,0 +1,48 @@
+.backgroundimage{
+  background-image: url("TakeMeToThailand1.jpg");
+  height: 200%;
+  width: 100%;
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Fonts */
+.intro{
+  font-family: 'Raleway', sans-serif;
+}
+.used1{
+  font-family: 'Playfair Display', serif;
+}
+.oxygen{
+  font-family: 'Fjalla One', sans-serif;
+}
+.raj{
+  font-family: 'Rajdhani', sans-serif;
+}
+/* Photo Sizing */
+.login{
+  width: 300px;
+  height:500px;
+}
+.menu{
+  width: 300px;
+  height: 500px;
+}
+
+/* Photo Placement */
+.row ul{
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+.row ul li{
+  background-color: white;
+}
+
+/* Description */
+.description ul{
+  display: flex;
+  list-style-type: none;
+}
