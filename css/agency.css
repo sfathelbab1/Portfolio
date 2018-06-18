@@ -59,7 +59,7 @@ section {
   .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
     background-color: #fec810 !important;
     border-color: #fec810 !important;
-    color: white; }
+    color: black; }
   .btn-primary:active, .btn-primary:focus {
     box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important; }
 
@@ -92,7 +92,7 @@ body {
     background-color: #fed136;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
   #mainNav .navbar-brand {
-    color: white;
+    color: black;
     font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
       color: #fec503; }
@@ -101,7 +101,7 @@ body {
     font-weight: 400;
     padding: 0.75em 0;
     letter-spacing: 1px;
-    color: white;
+    color: black;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
     #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
       color: #fed136; }
@@ -132,7 +132,7 @@ body {
 
 header.masthead {
   text-align: center;
-  color: white;
+  color: black;
   background-image: url("../img/PortfolioBackground.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -206,7 +206,7 @@ header.masthead {
         height: 20px;
         margin-top: -12px;
         text-align: center;
-        color: white; }
+        color: black; }
         #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
           margin-top: -12px; }
         #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
@@ -337,7 +337,7 @@ header.masthead {
       height: 80px;
       margin-left: 0;
       text-align: center;
-      color: white;
+      color: black;
       border: 7px solid #e9ecef;
       border-radius: 100%;
       background-color: #fed136; }
@@ -503,7 +503,7 @@ ul.social-buttons {
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
-    color: white;
+    color: black;
     border-radius: 100%;
     outline: none;
     background-color: #212529; }
