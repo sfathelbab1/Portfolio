@@ -11,9 +11,9 @@ p {
   line-height: 1.75; }
 
 a {
-  color: black; }
+  color: #fed136; }
   a:hover {
-    color: white; }
+    color: #fec503; }
 
 .text-primary {
   color: #fed136 !important; }
@@ -87,7 +87,7 @@ body {
     right: 0;
     padding: 13px;
     text-transform: uppercase;
-    color: white;
+    color: black;
     border: 0;
     background-color: #fed136;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
