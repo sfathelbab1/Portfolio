@@ -1,0 +1,135 @@
+.backgroundimage{
+  background-image: url("CollegeVibesBack.png");
+  height:650px;
+  width: 1200px;
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Fonts */
+.intro{
+  font-family: 'Raleway', sans-serif;
+}
+.used1{
+  font-family: 'Playfair Display', serif;
+}
+.oxygen{
+  font-family: 'Fjalla One', sans-serif;
+}
+.raj{
+  font-family: 'Rajdhani', sans-serif;
+}
+/* Photo Sizing */
+.login{
+  width: 300px;
+  height:500px;
+}
+.img{
+  width: 490px;
+  height: 300px;
+}
+.informationarch{
+  width: 600px;
+  height: 500px;
+}
+.cardsorting{
+  width: 400px;
+  height: 300px;
+}
+.wireframe{
+  width: 400px;
+  height: 300px;
+}
+.workflow{
+  width: 500px;
+  height: 500px;
+}
+/* Photo Placement */
+.row ul{
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+.row ul li{
+  background-color: white;
+}
+
+/* Second Photo Placement */
+.placement ul{
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+.placement ul li{
+  background-color: white;
+}
+
+/* Third Photo Placement */
+.placement2 ul{
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+.placement2 ul li{
+  background-color: white;
+}
+
+/* Third Photo Placement */
+.placement3 ul{
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+.placement3 ul li{
+  background-color: white;
+}
+
+/* Fourth Photo Placement */
+.placement4 ul{
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+.placement4 ul li{
+  background-color: white;
+}
+
+/* Fifth Photo Placement */
+.placement5 ul{
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+.placement5 ul li{
+  background-color: white;
+}
+
+/* Description */
+.description ul{
+  display: flex;
+  list-style-type: none;
+}
+
+.hover{
+  text-decoration: none;
+  color: black;
+}
+
+.hover:hover{
+  color: gray;
+}
+.links{
+  color: gray;
+  text-decoration: none;
+}
+.links:hover{
+  color: black;
+  text-decoration: underline;
+}
