@@ -6,3 +6,12 @@ font-family: 'Dosis', sans-serif;
 .used1{
 font-family: 'Fira Sans', sans-serif;
 }
+
+.links{
+    color: gray;
+    text-decoration: none;
+  }
+  .links:hover{
+    color: black;
+    text-decoration: underline;
+  }
